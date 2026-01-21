@@ -1,4 +1,4 @@
-# 🚕 Ride Booking Analysis Project
+# 🚕 RIDE-HAILING DATA ANALYSIS (EDA) | Python
 
 ## 📌 Project Overview
 
